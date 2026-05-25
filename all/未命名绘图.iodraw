@@ -67,21 +67,21 @@
         </mxCell>
         <mxCell id="zQReMBJVWx4dn6oiMAh0-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="230" as="sourcePoint" />
-            <mxPoint x="430" y="230" as="targetPoint" />
+            <mxPoint x="360" y="99.5" as="sourcePoint" />
+            <mxPoint x="400" y="99.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="410" y="230" />
-              <mxPoint x="430" y="230" />
+              <mxPoint x="380" y="99.5" />
+              <mxPoint x="400" y="99.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="zQReMBJVWx4dn6oiMAh0-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="230" as="sourcePoint" />
-            <mxPoint x="500" y="230" as="targetPoint" />
+            <mxPoint x="450" y="99.5" as="sourcePoint" />
+            <mxPoint x="490" y="99.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="480" y="230" />
-              <mxPoint x="500" y="230" />
+              <mxPoint x="470" y="99.5" />
+              <mxPoint x="490" y="99.5" />
             </Array>
           </mxGeometry>
         </mxCell>
