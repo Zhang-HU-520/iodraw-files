@@ -50,6 +50,7 @@
             <mxPoint x="210" y="100" as="sourcePoint" />
             <mxPoint x="250" y="100" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="200" y="100" />
               <mxPoint x="230" y="100" />
               <mxPoint x="250" y="100" />
             </Array>
