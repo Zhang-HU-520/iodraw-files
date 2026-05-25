@@ -28,11 +28,8 @@
         <mxCell id="zQReMBJVWx4dn6oiMAh0-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="350" as="sourcePoint" />
-            <mxPoint x="400" y="350" as="targetPoint" />
+            <mxPoint x="350" y="350" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="zQReMBJVWx4dn6oiMAh0-6" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="zQReMBJVWx4dn6oiMAh0-5">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
